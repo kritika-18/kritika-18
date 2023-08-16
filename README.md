@@ -121,15 +121,15 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kritika-18&theme=dark&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kritika-18&theme=nightowl&show_icons=true&count_private=true)
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-18&theme=dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-18&theme=nightowl)
 
 
 
 <div align="left">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-18&theme=dark" alt="kritika-18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-18&theme=nightowl" alt="kritika-18" /></p>
 </div>
 
 
